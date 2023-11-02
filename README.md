@@ -29,3 +29,8 @@ A simple web application that allows users to check the weather for a specific c
 
    ```javascript
    const API_KEY = 'YOUR_API_KEY';
+
+Save the file, and the application will use your API key for weather data.
+You can also view the live version in your browser right now: [Weather App Live](https://sufianadnan.github.io/WeatherApp/)
+
+Happy weather checking!
