@@ -2,7 +2,7 @@
 
 A simple web application that allows users to check the weather for a specific city.
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Screenshot.png)
 
 ## Features
 
