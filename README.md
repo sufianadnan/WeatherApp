@@ -2,7 +2,7 @@
 
 A simple web application that allows users to check the weather for a specific city.
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Screenshot.png)
 
 ## Features
 
@@ -21,3 +21,11 @@ A simple web application that allows users to check the weather for a specific c
 - HTML, CSS, JavaScript
 - OpenWeatherMap API for weather data
 
+**Note:** The OpenWeatherMap API is included in this deployment, and there is no reason to hide it as it's not a paid service or something worth concealing. However, if you wish to clone the repository and use your own API key, follow the steps below:
+
+1. Clone the repository to your local machine.
+2. Create a file named `config.js` in the root directory.
+3. Add the following code to `config.js` and replace `'YOUR_API_KEY'` with your OpenWeatherMap API key:
+
+   ```javascript
+   const API_KEY = 'YOUR_API_KEY';
