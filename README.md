@@ -1,5 +1,5 @@
 # Weather App
-live version in your browser right now: [Weather App Live](https://sufianadnan.github.io/WeatherApp/)
+Live version in your browser right now: [Weather App Live](https://sufianadnan.github.io/WeatherApp/)
 
 A simple web application that allows users to check the weather for a specific city.
 
